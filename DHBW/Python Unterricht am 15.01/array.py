@@ -56,5 +56,4 @@ print(my_transactions[0]["date"])
 print(type(my_date))
 print(is_valid_date_format(my_date))
 
-import pandas as pd
 
