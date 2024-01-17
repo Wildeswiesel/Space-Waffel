@@ -41,8 +41,8 @@ def find_all(my_key,my_value):
 
 
 my_transactions = find_all("date","2024-01-14")
-print(my_transactions)
-print(len(my_transactions))
+
+print("wie viele Transaktionen wurden durch geführt am 14.01:",len(my_transactions))
 
 import re
 
