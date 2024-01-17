@@ -1,8 +1,8 @@
 import os
 
-ordner_pfad = 'D:/HDD3/Extern/Serien/Leverage.Redemption'
+ordner_pfad = 'path/to/ordner'
 
-video_dateiendungen = ['.mp4', '.avi', '.mkv', '.mov']
+video_dateiendungen = ['hier die dateiendungen']
 
 
 for datei in os.listdir(ordner_pfad):
